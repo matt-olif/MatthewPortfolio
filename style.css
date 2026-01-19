@@ -209,6 +209,10 @@
             font-size: 0.9rem;
         }
 
+        .Dev:hover {
+            background-color: rgba(20, 238, 184, 0.2);
+        }
+
         /* Certificates Section */
         .certificates {
             background: rgba(255, 255, 255, 0.1);
